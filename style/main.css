@@ -214,7 +214,7 @@ hr {
   -ms-touch-action: none;
   touch-action: none;
   background: url('../tile-sets/udacity/board.png');
-  background-size: 100%
+  background-size: 100%;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -686,7 +686,7 @@ hr {
     -ms-touch-action: none;
     touch-action: none;
     background: url('../tile-sets/udacity/board.png');
-    background-size: 100%
+    background-size: 100%;
     border-radius: 6px;
     width: 280px;
     height: 280px;
