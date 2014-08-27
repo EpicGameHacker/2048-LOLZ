@@ -684,7 +684,7 @@ hr {
     -ms-user-select: none;
     -ms-touch-action: none;
     touch-action: none;
-    background: #7C7200;
+    background: url('../tile-sets/udacity/board.png');;
     border-radius: 6px;
     width: 280px;
     height: 280px;
