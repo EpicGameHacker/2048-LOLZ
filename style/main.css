@@ -330,14 +330,14 @@ hr {
     font-size: 11px;
   }
   .tile.tile-16 .tile-inner {
-    background: url('../tile-sets/udacity/16.gif');
+    background: url('../tile-sets/udacity/16-alt.gif');
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-weight: medium;
     font-size: 10px;
   }
   .tile.tile-32 .tile-inner {
-    background: url('../tile-sets/udacity/32.gif');
+    background: url('../tile-sets/udacity/32-alt.gif');
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-size: 14px;
