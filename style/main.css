@@ -401,9 +401,11 @@ hr {
       .tile.tile-2048 .tile-inner {
         font-size: 10px; } }
   .tile.tile-super .tile-inner {
-    color: #f9f6f2;
-    background: #3c3a32;
-    font-size: 30px; }
+    color: rgba(255, 255, 255, 0.22);
+    background: url('../tile-sets/udacity/tile-super.gif');
+    font-size: 30px;
+    background-size: 100%;
+    border-radius: 50% }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
         font-size: 10px; } }
